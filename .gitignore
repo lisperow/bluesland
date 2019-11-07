@@ -11,3 +11,4 @@ mappings/.nyc_output
 .idea
 *.iml
 front.build
+out
